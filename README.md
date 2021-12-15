@@ -1,0 +1,2 @@
+# astrojulkizer
+Prosty generator zdań
