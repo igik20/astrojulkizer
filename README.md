@@ -1,2 +1,2 @@
 # astrojulkizer
-Prosty generator zdań
+(stub - on hold) Prosty generator zdań
